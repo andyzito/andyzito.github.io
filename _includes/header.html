@@ -4,8 +4,12 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-    {%- if page_paths -%}
+    <div>
+      <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/mail.svg' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a>
+      <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      <a class="u-resume" href="#">download resume</a>
+    </div>
+    <!-- {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -25,6 +29,6 @@
           {%- endfor -%}
         </div>
       </nav>
-    {%- endif -%}
+    {%- endif -%} -->
   </div>
 </header>
