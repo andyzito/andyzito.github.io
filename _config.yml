@@ -22,7 +22,7 @@ domain: andyzito.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-linkedin_username: andrew-zito
+linkedin_username: andrewzito
 github_username: andyzito
 
 # Build settings
