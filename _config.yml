@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Andy Zito
-email: andyzitowebdev@gmail.com
+email: azito122@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Andy Zito is a web developer and software engineer currently working at Lafayette College
   in Easton, Pennsylvania.
@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 linkedin_username: andrew-zito
-github_username:  azito122
+github_username: andyzito
 
 # Build settings
 markdown: kramdown
