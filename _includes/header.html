@@ -7,8 +7,8 @@
     <div class="contact-row">
       <a class="icon-link" href="mailto:{{ site.email }}"><img src="{{ '/assets/mail-fill.svg' | relative_url }}"><span>{{ site.email | escape }}</span></a>
       <a class="icon-link" href="#"><img src="{{ '/assets/file-download-fill.svg' | relative_url }}"><span>download resume</span></a>
-      <a class="icon-link" href="https://github.com/{{ site.github_username | escape }}"><img src="{{ '/assets/github-fill.svg' | relative_url }}"><span>github</span></a>
-      <a class="icon-link" href="https://www.linkedin.com/in/{{ site.linkedin_username | escape }}"><img src="{{ '/assets/linkedin-box-fill.svg' | relative_url }}"><span>linkedin</span></a>
+      <a class="icon-link" href="https://github.com/{{ site.github_username | escape }}"><img src="{{ '/assets/github-fill.svg' | relative_url }}"><span>{{ site.github_username }}</span></a>
+      <a class="icon-link" href="https://www.linkedin.com/in/{{ site.linkedin_username | escape }}"><img src="{{ '/assets/linkedin-box-fill.svg' | relative_url }}"><span>{{ site.linkedin_username }}</span></a>
     </div>
     <!-- {%- if page_paths -%}
       <nav class="site-nav">
