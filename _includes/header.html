@@ -4,10 +4,11 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <div>
-      <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/mail.svg' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a>
-      <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-      <a class="u-resume" href="#">download resume</a>
+    <div class="contact-row">
+      <a class="icon-link" href="mailto:{{ site.email }}"><img src="{{ '/assets/mail-fill.svg' | relative_url }}"><span>{{ site.email | escape }}</span></a>
+      <a class="icon-link" href="#"><img src="{{ '/assets/file-download-fill.svg' | relative_url }}"><span>download resume</span></a>
+      <a class="icon-link" href="https://github.com/{{ site.github_username | escape }}"><img src="{{ '/assets/github-fill.svg' | relative_url }}"><span>github</span></a>
+      <a class="icon-link" href="https://www.linkedin.com/in/{{ site.linkedin_username | escape }}"><img src="{{ '/assets/linkedin-box-fill.svg' | relative_url }}"><span>linkedin</span></a>
     </div>
     <!-- {%- if page_paths -%}
       <nav class="site-nav">

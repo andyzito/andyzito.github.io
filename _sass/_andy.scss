@@ -1,0 +1,41 @@
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.4rem;
+}
+
+section.page-list {
+  margin-bottom: 3.5rem;
+}
+
+.icon-link {
+  white-space: nowrap;
+
+  img {
+    height: 1.1em;
+    vertical-align: text-bottom;
+  }
+
+  span {
+    padding-left: 0.3em;
+  }
+}
+
+article {
+  h2 {
+    display: inline-block;
+    padding-right: .5rem;
+  }
+  
+  a.read-more, a.linkout {
+    display: inline;
+    margin: 0 .5rem;
+
+    &:after {
+      content: " »"
+    }
+  }
+}
+  
