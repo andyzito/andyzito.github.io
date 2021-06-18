@@ -5,24 +5,17 @@
 layout: home
 ---
 
-<!-- # Projects
+# Projects
 
+## [Syntree](https://syntree.andycodesthings.com)
 
+Syntree is a JavaScript-based web application that allows users to draw syntax trees using an intuitive GUI interface.
 
+## [WordPress Multisite API](https://github.com/azito122/wp-multisite-api)
 
-
-
-## WordPress Multisite API
-
-[WP Multisite API](https://github.com/azito122/wp-multisite-api) is an unpublished WordPress plugin that provides a REST wrapper around (most of) the [WP-CLI site command](https://developer.wordpress.org/cli/commands/site/).
+WP Multisite API is an unpublished WordPress plugin that provides a REST wrapper around (most of) the [WP-CLI site command](https://developer.wordpress.org/cli/commands/site/).
 
 # Contributions
 
-## Moodle: CLAMPMail
-
-* CLAMPMail is a Moodle plugin that allows users to bulk send email
-* I added GDPR compliance functionality (data export, data delete)
-
-## Moodle: other
-
-*  -->
+## [Moodle: CLAMPMail](/clampmail)
+CLAMPMail is a Moodle plugin that allows users to bulk send email.
