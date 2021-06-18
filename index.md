@@ -6,7 +6,7 @@ layout: home
 ---
 # Projects
 
-## [Syntree](https://syntree.andycodesthings.com)
+## [Syntree](http://syntree.andycodesthings.com)
 
 Syntree is a JavaScript-based web application that allows users to draw syntax trees using an intuitive GUI interface.
 
