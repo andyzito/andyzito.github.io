@@ -4,7 +4,6 @@
 
 layout: home
 ---
-
 # Projects
 
 ## [Syntree](https://syntree.andycodesthings.com)
