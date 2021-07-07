@@ -10,6 +10,10 @@ layout: home
 
 Syntree is a JavaScript-based web application that allows users to draw syntax trees using an intuitive GUI interface.
 
+## [Rhyminator](http://rhyminator.andycodesthings.com)
+
+Rhyminator is a small React App for performing a meditative exercise. The user is prompted with a word and must list words that rhyme. There is also a mode for listing words that start with a given letter.
+
 ## [WordPress Multisite API](https://github.com/azito122/wp-multisite-api)
 
 WP Multisite API is an unpublished WordPress plugin that provides a REST wrapper around (most of) the [WP-CLI site command](https://developer.wordpress.org/cli/commands/site/).
