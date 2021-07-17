@@ -56,12 +56,10 @@ article {
   }
 
   .icon-link:not(:last-of-type) {
-    margin-right: 3rem;
 
     &:after {
       content: "·";
       position: absolute;
-      margin-left: 1.5rem;
       color: black;
     }
   }
