@@ -16,8 +16,7 @@
 title: Andy Zito
 email: azito122@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Andy Zito is a web developer and software engineer currently working at Lafayette College
-  in Easton, Pennsylvania.
+  Andy Zito is a web developer and software engineer.
 domain: andyzito.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
