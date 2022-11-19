@@ -4,7 +4,11 @@
 
 layout: home
 ---
-# Projects
+# Personal/Academic Projects
+
+## [HarvestBuddy](https://github.com/andyzito/harvestbuddy)
+
+HarvestBuddy is a prototype command line tool which allows users of the Harvest time tracking software to arbitrarily categorize tasks and create per-task hours budgets. It was created for personal use while I was working at Green River.
 
 ## [Syntree](https://syntree.andycodesthings.com)
 
@@ -23,6 +27,9 @@ Rhyminator is a small React App created primarily for practice. The user is prom
 WP Multisite API is an unpublished WordPress plugin that provides a REST wrapper around (most of) the [WP-CLI site command](https://developer.wordpress.org/cli/commands/site/).
 
 # Contributions
+
+## [OpenPath](/openpath)
+OpenPath is an open-source HMIS Warehouse web application developed and maintained by Green River.
 
 ## [Moodle: CLAMPMail](/clampmail)
 CLAMPMail is a Moodle plugin that allows users to bulk send email.
