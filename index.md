@@ -6,9 +6,9 @@ layout: home
 ---
 # Personal/Academic Projects
 
-## [HarvestBuddy](https://github.com/andyzito/harvestbuddy)
+## [HarvestBuddy](https://github.com/andyzito/harvest_buddy)
 
-HarvestBuddy is a prototype command line tool which allows users of the Harvest time tracking software to arbitrarily categorize tasks and create per-task hours budgets. It was created for personal use while I was working at Green River.
+HarvestBuddy is a prototype command line tool which allows users of the [Harvest](https://www.getharvest.com/) time tracking software to arbitrarily categorize tasks and create per-task hours budgets. It was created for personal use while I was working at [Green River](https://www.greenriver.com/).
 
 ## [Syntree](https://syntree.andycodesthings.com)
 
