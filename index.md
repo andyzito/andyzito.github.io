@@ -6,13 +6,17 @@ layout: home
 ---
 # Personal/Academic Projects
 
+## [Syntree](https://syntree.andycodesthings.com)
+
+Syntree is a JavaScript-based web application that allows users to draw syntax trees using an intuitive GUI interface. Extensive documentation is available on [the Syntree website](http://syntree.andycodesthings.com/pages/what.php).
+
+## [ChatGPT Improvements](https://github.com/andyzito/chatgpt-improvements)
+
+Some custom JavaScript and CSS, created in collaboration with ChatGPT, that provides a set of improved features on the default ChatGPT web interface. Examples include working `<spoiler>` tags, resizable chat box, and submission only on `CTRL + Enter`.
+
 ## [HarvestBuddy](https://github.com/andyzito/harvest_buddy)
 
 HarvestBuddy is a prototype command line tool which allows users of the [Harvest](https://www.getharvest.com/) time tracking software to arbitrarily categorize tasks and create per-task hours budgets. It was created for personal use while I was working at [Green River](https://www.greenriver.com/).
-
-## [Syntree](https://syntree.andycodesthings.com)
-
-Syntree is a JavaScript-based web application that allows users to draw syntax trees using an intuitive GUI interface.
 
 ## [Markovinator](https://markovinator.andycodesthings.com)
 
