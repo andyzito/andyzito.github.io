@@ -1,0 +1,108 @@
+Andrew Zito
+
++1 (845) 240-8309 - azito122@gmail.com - andyzito.github.io - github.com/andyzito - linkedin.com/in/andrewzito
+
+------------------------------------------------------------------------
+
+
+
+KEY SKILLS
+
+
+  - Frameworks/Languages: PHP (5 yrs), TypeScript (5 yrs), WordPress (4 yrs), Drupal (4 yrs), React.js (2 yrs), Django (1 yr), Ruby on Rails (1 yr), Jest (1 yr), Cypress (1 yr), MySQL/MariaDB/Aurora (6 yrs), PostgreSQL (2 yrs), SASS/LESS (5 yrs)
+
+  - Infrastructure (AWS): Linux CLI, Ruby SDK, CDK (TypeScript), ECS, RDS, S3, EC2 (4 yrs each)
+
+  - Tools: Git (6 yrs), GitHub Actions (2 yrs), GitLab CI (5 yrs), NPM (5 yrs), Webpack (2 yrs), Unix CLI (Bash) (6 yrs), Docker (+Compose) (6 yrs), VSCode (6 yrs), Slack (6 yrs)
+
+------------------------------------------------------------------------
+
+
+
+EXPERIENCE
+
+
+Web Developer at Hampshire College (01/2023 - present)
+
+  - Led redesign and overhaul of a custom narrative evaluations platform using Django & React
+
+  - Independently reviewed & updated 4-year-old legacy code and modernized over 10 outdated packages
+
+  - Engineered several new features and facilitated ongoing future development after years of static maintenance
+
+  - Authored comprehensive software documentation, providing clarity for future developers and stakeholders
+
+  - Fortified application by integrating up-to-date Jest and Cypress automated testing frameworks, increasing stability
+
+  - Led upgrade process from Moodle 3.11 to 4.1: evaluated new theme and plugins, improved process docs
+
+Software Engineer at Green River (08/2021 - 10/2022)
+
+  - Developed custom Ruby on Rails & React applications catering to a diverse clientele with unique requirements
+
+  - Constructed intuitive UI components in collaboration with UI/UX designers (Ruby & Slim, React & MD5)
+
+  - Integrated UI with headless backend systems to enable critical client data operations (GraphQL, Rest API)
+
+  - Performed in-depth analysis of legacy code to streamline new feature implementation
+
+  - Collaborated directly with clients to shepherd requirements from discovery to launch: spec, feedback, iteration, QA
+
+  - Conducted cross-project meta survey, presented results & identified areas for high-impact, low-cost improvement
+
+  - Optimized bespoke deployment tool for better performance & more reliable rollouts in OpenPath HMIS Warehouse (AWS Ruby SDK, AWS CLI, AWS ECS, GitHub Actions)
+
+  - Orchestrated seamless manual and CI deployments to multiple environments, ensuring continuous integration of new features and bug fixes (Capistrano, GitHub Actions, AWS SDK & CLI)
+
+  - Refactored local dev environment standards to accommodate varied host configurations: used nested Docker files to enable automated test running, volume performance optimization (Docker Compose)
+
+  - Crafted and integrated robust Terraform modules to support client hosting capabilities
+
+Web Developer at Lafayette College (03/2018 - 07/2021)
+
+  - Developed AWS stacks (infrastructure as code) to host college web applications (AWS CDK, TypeScript, CloudFormation, EC2, Fargate/ECS)
+
+  - Enhanced cloud hosting with features like caching, high availability, monitoring, DNS routing
+
+  - Played key role in project management: wrote scopes, project plans, tech reviews to deliver on time & within budget
+
+  - Designed WordPress plugins and themes to augment accessibility, user experience, integration with external data sources
+
+  - Built Drupal modules and themes (Drupal 8) to support unique user needs
+
+  - Established robust CI/CD workflow for deployment speed & reliability (GitLab CI, Capistrano, PHP Deployer, AWS CDK)
+
+  - Architected usable, efficient local dev environments for WordPress, Moodle, Drupal (Docker Compose)
+
+  - Constructed UI elements compliant with WCAG 2 standards, prioritizing accessibility and maintainability (PHP, Twig, SASS)
+
+  - Implemented GDPR compliant personal data export and deletion for Moodle plugins
+
+  - Created automated unit and acceptance tests for Moodle plugins (PHPUnit, Behat)
+
+  - Produced patch to enhance Moodle fullname() function with flexible fallback templates (MDL-4472)
+
+  - Contributed to restoring Moodle default sort-by-last-name behavior in participants table (MDL-63316)
+
+  - Co-maintained Moodle plugins including Roster report, Filtered course list block, Use template on course creation
+
+  - Maintained custom Symfony applications: Bing-backed search, keymatch management, course data API wrapper
+
+Web Developer (Student Worker) at Hampshire College (11/2015 - 06/2017)
+
+  - Designed themed components for college Intranet redesign (Drupal 7, ZenGrids, SASS)
+
+  - Pioneered a new Moodle plugin to improve the management of temporary enrollments
+
+------------------------------------------------------------------------
+
+
+
+EDUCATION
+
+
+B.A. Software Engineering at Hampshire College (2015 - 2017)
+
+  - Division III Project 'Syntree': a web app to visually create syntax trees with a GUI interface (PHP, JavaScript, Snap.svg)
+
+A.A. Philosophy at Bard College at Simon's Rock (2013 - 2015)
