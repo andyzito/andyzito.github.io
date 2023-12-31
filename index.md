@@ -6,13 +6,17 @@ layout: home
 ---
 # Personal/Academic Projects
 
-## [Syntree](https://syntree.andycodesthings.com)
+## [Obsidian Nice KBDs](https://github.com/andyzito/obsidian-nice-kbds)
 
-Syntree is a JavaScript-based web application that allows users to draw syntax trees using an intuitive GUI interface. Extensive documentation is available on [the Syntree website](http://syntree.andycodesthings.com/pages/what.php).
+An Obsidian plugin that automatically detects key combos (e.g. `⌘ + A` or `Ctrl + C`) and wraps them in `<kbd>` tags. It also provides a new Markdown syntax for manually indicating a key combo (wrapper characters are configurable): `«CMD»`. Stylistic improvements to `<kbd>` tags are also included.
 
 ## [ChatGPT Improvements](https://github.com/andyzito/chatgpt-improvements)
 
-Some custom JavaScript and CSS, created in collaboration with ChatGPT, that provides a set of improved features on the default ChatGPT web interface. Examples include working `<spoiler>` tags, resizable chat box, and submission only on `CTRL + Enter`.
+Some custom JavaScript and CSS, created in collaboration with ChatGPT, that provides a set of improved features on the default ChatGPT web interface. Examples include working `<spoiler>` tags, resizable chat box, and submission only on `CTRL + Enter`. This one was mostly just for fun.
+
+## [Syntree](https://syntree.andycodesthings.com)
+
+Syntree is a JavaScript-based web application that allows users to draw syntax trees using an intuitive GUI interface. Extensive documentation is available on [the Syntree website](http://syntree.andycodesthings.com/pages/what.php).
 
 ## [HarvestBuddy](https://github.com/andyzito/harvest_buddy)
 
