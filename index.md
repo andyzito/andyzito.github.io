@@ -8,9 +8,9 @@ layout: home
 
 ## [Obsidian Nice KBDs](https://github.com/andyzito/obsidian-nice-kbds)
 
-This Obsidian plugin automatically detects keyboard shortcuts and wraps them in <kbd> tags. For example, ⌘ + A becomes <kbd>⌘</kbd> + <kbd>A</kbd>, making keyboard combinations clear and visually distinct (styles included).
+This Obsidian plugin automatically detects keyboard shortcuts and wraps them in `<kbd>` tags, indicating a 'keyboard input'. For example, `⌘ + A` becomes <kbd>⌘</kbd> + <kbd>A</kbd>, making keyboard combinations clear and visually distinct (styles included).
 
-Additionally, this plugin introduces a unique Markdown syntax for manually specifying keyboard inputs. Using configurable wrapper characters, you can indicate key combos, like `«CMD»` <kbd>CMD</kbd>.
+Additionally, this plugin introduces a unique Markdown syntax for manually specifying keyboard inputs: `«CMD»` will become <kbd>CMD</kbd>.
 
 ## [ChatGPT Improvements](https://github.com/andyzito/chatgpt-improvements)
 
