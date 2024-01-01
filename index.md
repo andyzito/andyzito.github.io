@@ -8,7 +8,11 @@ layout: home
 
 ## [Obsidian Nice KBDs](https://github.com/andyzito/obsidian-nice-kbds)
 
-An Obsidian plugin that automatically detects key combos and wraps them in `<kbd>` tags, like this: <kbd>⌘</kbd> + <kbd>A</kbd>. It also provides a new Markdown syntax for manually forcing a `<kbd>` tag: `«CMD»` becomes <kbd>CMD</kbd>.
+An Obsidian plugin that automatically detects key combos and wraps them in `<kbd>` tags, like this:
+
+<kbd>⌘</kbd> + <kbd>A</kbd>.
+
+It also provides a new Markdown syntax for manually forcing a `<kbd>` tag: `«CMD»` becomes <kbd>CMD</kbd>.
 
 Stylistic improvements to `<kbd>` tags are also included. Trigger characters like `⌘` and `⇧`, as well as additional allowed characters and wrapper characters for forced `<kbd>` tags, can be configured in the plugin settings.
 

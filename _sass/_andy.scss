@@ -64,3 +64,12 @@ article {
     }
   }
 }
+
+kbd {
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 0.15em 0.4em;
+  font-family: sans-serif;
+  border-color: rgb(170, 170, 170);
+  background-color: rgba(230, 230, 230, 1);
+}
