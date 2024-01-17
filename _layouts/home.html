@@ -3,6 +3,12 @@ layout: default
 ---
 <div class="home">
 
-  {{ content }}
+  {% for page in site.pages %}
+  {% if page.type == "home_column" %}
+    <div class="home-column">
+    {{ page.content | markdownify}}
+    </div>
+  {% endif %}
+  {% endfor %}
 
 </div>
