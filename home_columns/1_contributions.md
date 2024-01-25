@@ -16,5 +16,5 @@ The LAE Automator assists in the process of creating a new version of the [Moodl
 ## [OpenPath](/openpath)
 OpenPath is an open-source HMIS Warehouse web application developed and maintained by Green River.
 
-## [Moodle: CLAMPMail](/clampmail)
-CLAMPMail is a Moodle plugin that allows users to bulk send email.
+## [Moodle: CLAMPMail](/clampmail) [GitHub »](https://github.com/CLAMP-IT/moodle-block_clampmail)
+CLAMPMail is a Moodle block that allows users to bulk send email. It is maintained by [CLAMP](https://www.clamp-it.org/), and was created to replace the Quickmail block, with additional features.

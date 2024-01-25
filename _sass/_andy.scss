@@ -4,6 +4,28 @@ h1 {
 
 h2 {
   font-size: 1.4rem;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.4em;
+
+  &:not(:first-of-type) {
+    margin-top: 2rem;
+  }
+
+  a:nth-of-type(2)[href^="https://github.com"] {
+    font-size: 0.60em;
+    background-color: rgba(23, 86, 169, 0.11);
+    border-radius: 16px;
+    padding: 0.15em 0.95em;
+    margin-left: 0.85em;
+    color: rgba(75,75,75,1);
+    font-weight: 500;
+
+    &:hover {
+      background-color: rgba(23, 86, 169, 0.22);
+      text-decoration: none;
+    }
+  }
 }
 
 section.page-list {
@@ -24,6 +46,9 @@ section.page-list {
 }
 
 article {
+  width: 65%;
+  margin: auto;
+
   h2 {
     display: inline-block;
     padding-right: .5rem;
